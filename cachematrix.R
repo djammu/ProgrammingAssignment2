@@ -4,11 +4,7 @@
 ## setInverse --> Cache the Matrix passed to this (using the << operator) 
 ## getInverse --> Get the Cached Matrix
 
-##How to Run the functions (Example)
-##source("cachematrix.R")
-##a<-makeCacheMatrix()
-##a$set(matrix(1:4,2,2))
-##cacheSolve(a)
+
         
 
 
